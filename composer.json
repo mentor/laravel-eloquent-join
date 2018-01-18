@@ -1,5 +1,5 @@
 {
-    "name": "fico7489/laravel-eloquent-join",
+    "name": "mentor/laravel-eloquent-join",
     "description": "This package introduces the join capability for sorting and filtering on eloquent relations.",
     "keywords": [
         "laravel eloquent join",
@@ -25,7 +25,7 @@
         }
     ],
     "require": {
-        "illuminate/database": "5.5.*"
+        "illuminate/database": "5.3.*"
     },
     "require-dev": {
         "orchestra/testbench": "~3.5.0"
